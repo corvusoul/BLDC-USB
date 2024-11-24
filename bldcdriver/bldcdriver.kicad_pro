@@ -546,22 +546,6 @@
     [
       "386247e7-fbba-4db7-978d-7d877f3805e6",
       "Root"
-    ],
-    [
-      "9cd80082-7a31-4805-9aed-eb77111bfc6c",
-      "Power Sheet"
-    ],
-    [
-      "725189a7-e5dd-46f3-a05c-cca7f183d9a2",
-      "Three Phase Half Bridge"
-    ],
-    [
-      "f28f42fe-bda0-4721-a4ef-e9c7986d4b8f",
-      "DRV Sheet"
-    ],
-    [
-      "bfcb2737-5ae5-450f-a29a-35bd17b628aa",
-      "rp2040_sheet"
     ]
   ],
   "text_variables": {}
